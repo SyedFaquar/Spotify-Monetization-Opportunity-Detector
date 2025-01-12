@@ -3,7 +3,7 @@
 ## Overview
 An intelligent system that optimizes podcast monetization through data-driven ad placement strategies. Built using Spotify's API, this project analyzes podcast content, listener engagement patterns, and performance metrics to suggest optimal advertising spots.
 
-![Dashboard Preview](Data/photos/Dashboard.png)
+![Dashboard Preview](/Users/syedfaquaruddinquadri/Documents/projects/Spotify_Monetization/Spotify-Monetization-Opportunity-Detector/data/photos/Dasboard.png)
 
 ## 🚀 Key Features
 - **Smart Ad Placement**: Uses machine learning to identify optimal ad insertion points
