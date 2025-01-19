@@ -90,7 +90,7 @@ virtualenv
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/podcast-monetization.git
+git clone https://github.com/SyedFaquar/Spotify-Monetization-Opportunity-Detector.git
 
 # Create virtual environment
 python -m venv venv
@@ -99,9 +99,6 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
-# Configure Spotify API credentials
-cp config.example.py config.py
-# Edit config.py with your credentials
 ```
 
 ### Running the System
